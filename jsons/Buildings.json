@@ -7,6 +7,7 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
+		    "Unbuildable <for [AI player]>",
 		    "[50]% [Science] [in all cities] <for [Human player]>",
 		    "[50]% [Culture] [in all cities] <for [Human player]>",
 		    "[50]% [Food] [in all cities] <for [Human player]>",
